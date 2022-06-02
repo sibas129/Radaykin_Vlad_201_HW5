@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 02 09:06:02 MSK 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0181-2305-59d1-00000e6f8d98 
+on database directory C:\Users\vlad_\OneDrive\Рабочий стол\Radaykin_Vlad_201_HW5\Data\lastGameResults with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@506e1b77 
+Loaded from file:/C:/Users/vlad_/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18+36-2087
+user.dir=C:\Users\vlad_\OneDrive\Рабочий стол\Radaykin_Vlad_201_HW5\Data
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 02 09:06:02 MSK 2022: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jun 02 09:06:02 MSK 2022:
+Shutting down instance a816c00e-0181-2305-59d1-00000e6f8d98 on database directory C:\Users\vlad_\OneDrive\Рабочий стол\Radaykin_Vlad_201_HW5\Data\lastGameResults with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@506e1b77 
+----------------------------------------------------------------
